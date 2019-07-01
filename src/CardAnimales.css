@@ -1,0 +1,11 @@
+.container-fluid.catalogo {
+  background-color:rgb(247, 242, 226);
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.container-fluid.ficha {
+  background-color:rgb(247, 242, 226);
+  padding: 30px;
+  box-sizing: border-box;
+}

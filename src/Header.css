@@ -1,5 +1,5 @@
 .container-fluid.header {
-  background-color:rgb(255, 233, 165);
+  background-color:#FFCA28;
   padding: 30px;
 }
 
@@ -16,26 +16,26 @@
 
 .btn.btn-primary.card.buscador {
   color: rgb(255, 255, 255);
-  background-color: rgb(242, 172, 36);
-  border-color: rgb(242, 172, 36);
+  background-color: #FFA000;
+  border-color: #FF8F00;
   margin-top: 0px;
 }
 
 .btn.btn-primary.card.buscador:hover {
-  background-color: rgb(204, 142, 18);
-  border-color:  rgb(204, 142, 18);
+  background-color: #FFA000;
+  border-color:  #FFA000;
 }
 
 .btn.btn-primary.card.buscador.registrar {
   color: rgb(128, 120, 14);
-  background-color: rgb(255, 251, 0);
-  border-color: rgb(242, 172, 36);
+  background-color: #FFD54F;
+  border-color: #FFCA28;
   margin-top: 0PX;
 }
 
 .btn.btn-primary.card.buscador.registrar:hover {
   color: rgb(128, 120, 14);
-  background-color: rgb(255, 238, 0);
-  border-color: rgb(209, 150, 32);    
+  background-color:  #FFCA28;
+  border-color:  #FFCA28;    
 }
 

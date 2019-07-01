@@ -8,18 +8,16 @@ class Header extends React.Component {
     return (
       <div>
         <header>
-          <div className="container-fluid header">
-            <div className="row">
-              <div className="col col-auto">
-                <a href="HomeSection"><img className="logo" src="/assets/logo.png" alt="Logo Adopt Dogs"
-                  title="Logo Adopt Dogs"></img></a>
-              </div>
-            </div>
-          </div>
+
 
           <div className="buscador">
             <div className="container-fluid">
               <div className="row buscador">
+
+                <div className="col col-auto">
+                  <a href="#" onClick={this.props.goToHomeSection}><img className="logo" src="/assets/logo-blanco.png" alt="Logo Adopt Dogs"
+                    title="Logo Adopt Dogs"></img></a>
+                </div>
                 <div className="col col-auto">
                   <form action="url-to-server.php" method="post">
                     <select className="custom-select">
@@ -73,13 +71,13 @@ class Header extends React.Component {
 
                 <div className="col col-auto">
                   <form>
-                    <a href="list.html" className="btn btn-primary card buscador">Buscar</a>
+                    <a href="#" className="btn btn-primary card buscador" onClick={this.props.goToAnimal}>Buscar</a>
                   </form>
                 </div>
 
                 <div className="col col-auto">
                   <form>
-                    <a href="newAnimal.html" className="btn btn-primary card buscador registrar">Registrar nuevo perro</a>
+                    <a href="#" onClick={this.props.goToNewAnimal} className="btn btn-primary card buscador">Registrar nuevo perro</a>
                   </form>
                 </div>
 

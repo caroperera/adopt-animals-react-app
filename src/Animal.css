@@ -1,0 +1,11 @@
+.btn.btn-primary.card.buscador {
+    color: rgb(255, 255, 255);
+    background-color: #FFA000;
+    border-color: #FF8F00;
+    margin-top: 0px;
+  }
+  
+  .btn.btn-primary.card.buscador:hover {
+    background-color: #FFA000;
+    border-color:  #FFA000;
+  }

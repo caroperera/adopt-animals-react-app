@@ -12,7 +12,6 @@ class Footer extends React.Component {
       <div className="row">
         <div className="col col-12">www.adoptdogs.com.uy</div>
         </div>
-
       </div>
   </footer>
 

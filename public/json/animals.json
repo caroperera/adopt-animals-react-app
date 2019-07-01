@@ -1,0 +1,69 @@
+[
+  {
+    "nombre": "Paco",
+    "raza": "Ovejero Alemán",
+    "edad": "2 años",
+    "sexo": "Macho",
+    "foto": "/assets/ovejero-paco.jpg",
+    "id": 1
+  },
+  {
+    "nombre": "Félix",
+    "raza": "Bulldog Francés",
+    "edad": "1 año",
+    "sexo": "Macho",
+    "foto": "/assets/bulldog-felix.jpg",
+    "id": 2
+
+  },
+  {
+    "nombre": "Lola",
+    "raza": "Jack Russell",
+    "edad": "1 año",
+    "sexo": "Hembra",
+    "foto": "/assets/russell-lola.jpg",
+    "id": 3
+
+  },
+  {
+    "nombre": "Pantufla",
+    "raza": "San Bernardo",
+    "edad": "2 años",
+    "sexo": "Hembra",
+    "foto": "/assets/san-bernardo-pantufla.jpg",
+    "id": 4
+
+  },
+  {
+    "nombre": "Patricio",
+    "raza": "Bulldog Francés",
+    "edad": "1 año",
+    "sexo": "Macho",
+    "foto": "/assets/bulldog-patricio.jpg",
+    "id": 5
+  },
+  {
+    "nombre": "Taco",
+    "raza": "Dóberman",
+    "edad": "2 años",
+    "sexo": "Macho",
+    "foto": "/assets/doberman-taco.jpg",
+    "id": 6
+  },
+  {
+    "nombre": "Kala",
+    "raza": "Ovejero Alemán",
+    "edad": "5 meses",
+    "sexo": "Hembra",
+    "foto": "/assets/ovejero-suki.jpg",
+    "id": 7
+  },
+  {
+    "nombre": "Tambor",
+    "raza": "Jack Russell Terrier",
+    "edad": "3 años",
+    "sexo": "Macho",
+    "foto": "/assets/russell-tambor.jpg",
+    "id": 8
+  }
+]
